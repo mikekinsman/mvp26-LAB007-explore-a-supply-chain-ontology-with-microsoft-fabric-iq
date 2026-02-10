@@ -12,11 +12,11 @@ Create an issue in the repo with your question or concern. As a back up, you can
 
 # [MVP Summit 2026](https://mvp.microsoft.com)
 
-## 🔥BRKXXX: Build a Supply Chain Ontology with Microsoft Fabric IQ
+## 🔥LAB007: Build a Supply Chain Ontology with Microsoft Fabric IQ
 
 ### Session Description
 
-*Add Session Description*
+Gain practical, end-to-end experience in building and querying a supply chain ontology with Microsoft Fabric IQ. Participants will leverage the platform’s semantic layer to transform raw data into shared business understanding, enabling both teams and AI agents to reason, decide, and act in the language of the business. The lab demonstrates how Fabric IQ’s capabilities accelerate decision-making and business insights.
 
 ### 🌟 Microsoft Learn MCP Server
 
