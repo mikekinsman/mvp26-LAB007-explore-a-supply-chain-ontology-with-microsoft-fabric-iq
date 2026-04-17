@@ -1,3 +1,5 @@
+[← Previous: Run GQL queries](05-run-gql-queries.md) | [Next: Wrap-up →](07-wrap-up.md)
+
 # Exercise 6: Try the Data Agent
 
 In this step, you see how a Fabric Data Agent uses the ontology to answer natural-language questions about your data.
@@ -45,4 +47,4 @@ This question requires the agent to traverse a relationship from Customer to Reg
 
 ---
 
-**Next:** [Exercise 7: Wrap-up](07-wrap-up.md)
+[← Previous: Run GQL queries](05-run-gql-queries.md) | [Next: Wrap-up →](07-wrap-up.md)

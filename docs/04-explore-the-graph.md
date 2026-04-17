@@ -1,3 +1,5 @@
+[← Previous: Explore deployed artifacts](03-explore-deployed-artifacts.md) | [Next: Run GQL queries →](05-run-gql-queries.md)
+
 # Exercise 4: Explore the graph
 
 Once the graph refresh completes, you can visually explore the connected data.
@@ -58,4 +60,4 @@ Now use the visual query builder to run queries. We are going to find active pro
 
 ---
 
-**Next:** [Exercise 5: Run GQL queries](05-run-gql-queries.md)
+[← Previous: Explore deployed artifacts](03-explore-deployed-artifacts.md) | [Next: Run GQL queries →](05-run-gql-queries.md)

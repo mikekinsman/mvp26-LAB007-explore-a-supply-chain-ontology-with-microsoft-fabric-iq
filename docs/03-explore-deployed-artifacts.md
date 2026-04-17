@@ -1,3 +1,5 @@
+[← Previous: Understand IQ and ontology concepts](02-understand-iq-concepts.md) | [Next: Explore the graph →](04-explore-the-graph.md)
+
 # Exercise 3: Explore deployed artifacts
 
 While you wait for the graph to finish refreshing, explore the artifacts the setup notebook created.
@@ -94,4 +96,4 @@ While you wait for the graph to finish refreshing, explore the artifacts the set
 
 ---
 
-**Next:** [Exercise 4: Explore the graph](04-explore-the-graph.md)
+[← Previous: Understand IQ and ontology concepts](02-understand-iq-concepts.md) | [Next: Explore the graph →](04-explore-the-graph.md)

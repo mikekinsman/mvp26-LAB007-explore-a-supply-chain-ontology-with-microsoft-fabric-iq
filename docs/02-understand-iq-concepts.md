@@ -1,3 +1,5 @@
+[← Previous: Deploy the environment](01-deploy-the-environment.md) | [Next: Explore deployed artifacts →](03-explore-deployed-artifacts.md)
+
 # Exercise 2: Understand IQ and ontology concepts
 
 While the graph refresh runs in the background, take this time to understand the core concepts behind Fabric IQ.
@@ -7,4 +9,4 @@ While the graph refresh runs in the background, take this time to understand the
 
 ---
 
-**Next:** [Exercise 3: Explore deployed artifacts](03-explore-deployed-artifacts.md)
+[← Previous: Deploy the environment](01-deploy-the-environment.md) | [Next: Explore deployed artifacts →](03-explore-deployed-artifacts.md)

@@ -1,3 +1,5 @@
+[← Previous: Explore the graph](04-explore-the-graph.md) | [Next: Try the Data Agent →](06-try-the-data-agent.md)
+
 # Exercise 5: Run GQL queries
 
 In this step, you use GQL (Graph Query Language) to query the ontology graph directly. Before writing queries, take a moment to understand what GQL is and why it's the right tool for this scenario.
@@ -64,4 +66,4 @@ For the full GQL language reference in Fabric, see [GQL language guide](https://
 
 ---
 
-**Next:** [Exercise 6: Try the Data Agent](06-try-the-data-agent.md)
+[← Previous: Explore the graph](04-explore-the-graph.md) | [Next: Try the Data Agent →](06-try-the-data-agent.md)

@@ -1,3 +1,5 @@
+[Next: Deploy the environment →](01-deploy-the-environment.md)
+
 # IQ hands-on lab: Retail supply chain
 
 In this 60-minute hands-on lab, you explore the core capabilities of [Fabric IQ (preview)](https://learn.microsoft.com/fabric/iq/overview) using a retail supply chain scenario. A single setup notebook deploys all required artifacts automatically, so you can focus on exploring ontology concepts, graph visualization, GQL queries, and Data Agent interactions.
@@ -52,3 +54,7 @@ Key relationships include *Order* &rarr; *Customer*, *Order* &rarr; *Region*, *O
 | 45–55 min | Run GQL queries | [Exercise 5: Run GQL queries](05-run-gql-queries.md) |
 | 55–58 min | Data Agent demo | [Exercise 6: Try the Data Agent](06-try-the-data-agent.md) |
 | 58–60 min | Wrap-up and roadmap | [Exercise 7: Wrap-up](07-wrap-up.md) |
+
+---
+
+[Next: Deploy the environment →](01-deploy-the-environment.md)

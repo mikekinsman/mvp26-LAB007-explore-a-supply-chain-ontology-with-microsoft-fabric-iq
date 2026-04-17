@@ -1,3 +1,5 @@
+[← Previous: Overview](index.md) | [Next: Understand IQ and ontology concepts →](02-understand-iq-concepts.md)
+
 # Exercise 1: Deploy the environment
 
 A single Fabric notebook deploys all the artifacts you need for this lab, including:
@@ -30,4 +32,4 @@ A single Fabric notebook deploys all the artifacts you need for this lab, includ
 
 ---
 
-**Next:** [Exercise 2: Understand IQ and ontology concepts](02-understand-iq-concepts.md)
+[← Previous: Overview](index.md) | [Next: Understand IQ and ontology concepts →](02-understand-iq-concepts.md)
